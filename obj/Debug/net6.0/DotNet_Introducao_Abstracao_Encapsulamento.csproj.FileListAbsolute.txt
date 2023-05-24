@@ -1,0 +1,15 @@
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.csproj.AssemblyReference.cache
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.AssemblyInfoInputs.cache
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.AssemblyInfo.cs
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.csproj.CoreCompileInputs.cache
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\bin\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.exe
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\bin\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.deps.json
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\bin\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.runtimeconfig.json
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\bin\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.dll
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\bin\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.pdb
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.dll
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\refint\DotNet_Introducao_Abstracao_Encapsulamento.dll
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.pdb
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\DotNet_Introducao_Abstracao_Encapsulamento.genruntimeconfig.cache
+G:\Meu Drive\.Net\DotNet_Introducao_Abstracao_Encapsulamento\obj\Debug\net6.0\ref\DotNet_Introducao_Abstracao_Encapsulamento.dll
